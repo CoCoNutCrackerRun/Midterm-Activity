@@ -1,2 +1,2 @@
 # Midterm-Activity
-school
+
